@@ -2,7 +2,7 @@
 　和歌山県内の避難先情報一覧です。http://www.pref.wakayama.lg.jp/prefg/011400/info/index5.html
 
 ###（GitHubアカウント「Wakayama Prefecture」について）
-　「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が、試験的に運用しているものです。
+　「Wakayama Prefecture」は、オープンデータのニーズ把握や、技術者の方等との協働した地域課題の解決等のために和歌山県情報政策課が運用しているものです。
 
 ### （ライセンス）
 
