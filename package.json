@@ -4,6 +4,7 @@
   "description": "和歌山県内の避難先情報一覧です。http://www.pref.wakayama.lg.jp/prefg/011400/info/index5.html",
   "main": "index.js",
   "scripts": {
+    "build": "gulp bookbind",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
